@@ -1,0 +1,8 @@
+{
+    "material-icon-theme.files.associations": {
+        "*.m": "matlab",
+    },
+    "material-icon-theme.folders.associations": {
+        "dats": "docs",
+    }
+}
